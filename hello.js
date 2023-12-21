@@ -4,7 +4,21 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello, World!");
+console.log("Hello LaunchCode");
+console.log("4");
+
+
+console.log(" 5 + 6 = 11");
+console.log("My Name is:  \n Dallas Wyciskalla");
+
+var message1 = ("Two messages,");
+var message2 = (" Same Line");
+console.log(message1 + message2);
+
+console.log("The quote:  \"Early to bed early to rise\"");
+console.log("\t Starting paragraph with a tab");
+console.log("one more time for practice");
+console.log("still trying");
 
 /*  
 Next, PLAY! 
